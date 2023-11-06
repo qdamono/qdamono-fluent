@@ -1,0 +1,132 @@
+{
+  "@@locale": "pl",
+  "account": "Konto",
+  "@account": {
+    "description": ""
+  },
+  "allProjects": "Wszystkie projekty",
+  "@allProjects": {
+    "description": ""
+  },
+  "analysis": "Analiza",
+  "@analysis": {
+    "description": ""
+  },
+  "codes": "Kody",
+  "@codes": {
+    "description": ""
+  },
+  "confirm": "Potwierdź",
+  "@confirm": {
+    "description": ""
+  },
+  "confirmClose": "Potwierdź zamknięcie",
+  "@confirmClose": {
+    "description": ""
+  },
+  "confirmCloseDetail": "Czy na pewno chcesz zamknąć program?",
+  "@confirmCloseDetail": {
+    "description": ""
+  },
+  "currentUser": "Aktualny użytkownik",
+  "@currentUser": {
+    "description": ""
+  },
+  "darkTheme": "Motyw ciemny",
+  "@darkTheme": {
+    "description": ""
+  },
+  "diagram": "Diagramy",
+  "@diagram": {
+    "description": ""
+  },
+  "englishLanguage": "angielski",
+  "@englishLanguage": {
+    "description": ""
+  },
+  "files": "Pliki",
+  "@files": {
+    "description": ""
+  },
+  "fontSize": "Wielkość fontu",
+  "@fontSize": {
+    "description": ""
+  },
+  "fontSizeFactor": "Skala wielkości fontu",
+  "@fontSizeFactor": {
+    "description": ""
+  },
+  "home": "Panel główny",
+  "@home": {
+    "description": ""
+  },
+  "info": "Informacje",
+  "@info": {
+    "description": ""
+  },
+  "language": "Język",
+  "@language": {
+    "description": ""
+  },
+  "lightTheme": "Motyw jasny",
+  "@lightTheme": {
+    "description": ""
+  },
+  "logInButtonLabel": "Zaloguj się",
+  "@logInButtonLabel": {
+    "description": ""
+  },
+  "loginViewPageHeader": "Logowanie",
+  "@loginViewPageHeader": {
+    "description": ""
+  },
+  "no": "Nie",
+  "@no": {
+    "description": ""
+  },
+  "notes": "Notatki",
+  "@notes": {
+    "description": ""
+  },
+  "password": "Hasło",
+  "@password": {
+    "description": ""
+  },
+  "polishLanguage": "polski",
+  "@polishLanguage": {
+    "description": ""
+  },
+  "preview": "Podgląd",
+  "@preview": {
+    "description": ""
+  },
+  "registerButtonLabel": "Zarejestruj się",
+  "@registerButtonLabel": {
+    "description": ""
+  },
+  "registerViewPageHeader": "Rejestracja",
+  "@registerViewPageHeader": {
+    "description": ""
+  },
+  "settings": "Ustawienia",
+  "@settings": {
+    "description": ""
+  },
+  "systemTheme": "Motyw systemowy",
+  "@systemTheme": {
+    "description": ""
+  },
+  "typeYourEmailHere": "Wpisz swój e-mail tutaj",
+  "@typeYourEmailHere": {
+    "description": ""
+  },
+  "workspace": "Przestrzeń robocza",
+  "@workspace": {
+    "description": ""
+  },
+  "yes": "Tak",
+  "@yes": {
+    "description": ""
+  }
+}
+  

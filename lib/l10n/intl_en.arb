@@ -1,0 +1,131 @@
+{
+  "@@locale": "en",
+  "account": "Account",
+  "@account": {
+    "description": ""
+  },
+  "allProjects": "All projects",
+  "@allProjects": {
+    "description": ""
+  },
+  "analysis": "Analysis",
+  "@analysis": {
+    "description": ""
+  },
+  "codes": "Codes",
+  "@codes": {
+    "description": ""
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": ""
+  },
+  "confirmClose": "Confirm close",
+  "@confirmClose": {
+    "description": ""
+  },
+  "confirmCloseDetail": "Are You sure You want to close this window?",
+  "@confirmCloseDetail": {
+    "description": ""
+  },
+  "currentUser": "Current user",
+  "@currentUser": {
+    "description": ""
+  },
+  "darkTheme": "Dark theme",
+  "@darkTheme": {
+    "description": ""
+  },
+  "diagram": "Diagram",
+  "@diagram": {
+    "description": ""
+  },
+  "englishLanguage": "english",
+  "@englishLanguage": {
+    "description": ""
+  },
+  "files": "Files",
+  "@files": {
+    "description": ""
+  },
+  "fontSize": "Font size",
+  "@fontSize": {
+    "description": ""
+  },
+  "fontSizeFactor": "Font size factor",
+  "@fontSizeFactor": {
+    "description": ""
+  },
+  "home": "Home",
+  "@home": {
+    "description": ""
+  },
+  "info": "Info",
+  "@info": {
+    "description": ""
+  },
+  "language": "Language",
+  "@language": {
+    "description": ""
+  },
+  "lightTheme": "Light theme",
+  "@lightTheme": {
+    "description": ""
+  },
+  "logInButtonLabel": "Log in",
+  "@logInButtonLabel": {
+    "description": ""
+  },
+  "loginViewPageHeader": "Log in",
+  "@loginViewPageHeader": {
+    "description": ""
+  },
+  "no": "No",
+  "@no": {
+    "description": ""
+  },
+  "notes": "Notes",
+  "@notes": {
+    "description": ""
+  },
+  "password": "Password",
+  "@password": {
+    "description": ""
+  },
+  "polishLanguage": "polish",
+  "@polishLanguage": {
+    "description": ""
+  },
+  "preview": "Preview",
+  "@preivew": {
+    "description": ""
+  },
+  "registerButtonLabel": "Register",
+  "@registerButtonLabel": {
+    "description": ""
+  },
+  "registerViewPageHeader": "Register",
+  "@registerViewPageHeader": {
+    "description": ""
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": ""
+  },
+  "systemTheme": "System theme",
+  "@systemTheme": {
+    "description": ""
+  },
+  "typeYourEmailHere": "TypeYourEmailHere",
+  "@typeYourEmailHere": {
+    "description": ""
+  },
+  "workspace": "Workspace",
+  "@workspace": {
+    "description": ""
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": ""
+  }
+}

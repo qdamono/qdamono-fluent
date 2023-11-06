@@ -117,10 +117,8 @@ class TestTabBody extends ConsumerStatefulWidget {
 }
 
 class _TestTabBodyState extends ConsumerState<TestTabBody> {
-  final _markdownKey =
-      GlobalKey<MarkdownWidgetState>(debugLabel: 'MarkdownKey');
-  final _selectionAreaKey =
-      GlobalKey<SelectionAreaState>(debugLabel: 'SelectionAreaKey');
+  final _markdownKey = GlobalKey(debugLabel: 'MarkdownKey');
+  final _selectionAreaKey = GlobalKey(debugLabel: 'SelectionAreaKey');
 
   @override
   void initState() {

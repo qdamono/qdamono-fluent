@@ -260,9 +260,11 @@ packages:
   fluent_ui:
     dependency: "direct main"
     description:
-      path: "../fluent_ui-4.7.3-qdamono-fork"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: f8ef539d7454fe342838aeeaa79ff19aec9e07e0
+      url: "https://github.com/qdamono/fluent_ui-qdamono-fork.git"
+    source: git
     version: "4.7.3"
   fluentui_icons:
     dependency: "direct main"
@@ -275,9 +277,11 @@ packages:
   flutter:
     dependency: "direct main"
     description:
-      path: "../flutter-qdamono-fork"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: f344fff902107c5644ddd7e8ef9f1132740e2a9c
+      url: "https://github.com/qdamono/flutter-qdamono-fork.git"
+    source: git
     version: "0.0.0"
   flutter_lints:
     dependency: "direct dev"

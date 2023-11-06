@@ -33,9 +33,9 @@ dependencies:
 # Use forks uploaded to GitHub when they are ready
 dependency_overrides:
   flutter:
-    path: ../flutter-qdamono-fork
+    git: https://github.com/qdamono/flutter-qdamono-fork.git
   fluent_ui:
-    path: ../fluent_ui-4.7.3-qdamono-fork
+    git: https://github.com/qdamono/fluent_ui-qdamono-fork.git
 
 dev_dependencies:
   flutter_test:
